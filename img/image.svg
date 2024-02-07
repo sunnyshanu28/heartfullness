@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 616" style="enable-background:new 0 0 500 616;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#404040;enable-background:new    ;}
+	.st1{clip-path:url(#XMLID_80_);fill:#C8CAC8;}
+	.st2{clip-path:url(#XMLID_80_);fill:none;}
+	.st3{clip-path:url(#XMLID_80_);fill:#FFFFFF;enable-background:new    ;}
+	.st4{clip-path:url(#XMLID_80_);fill:#F4F4F4;enable-background:new    ;}
+</style>
+<path id="XMLID_4_" class="st0" d="M1026.4,161"/>
+<path id="XMLID_42_" class="st0" d="M500,161"/>
+<g id="XMLID_28_">
+	<defs>
+		<rect id="XMLID_7_" x="1" y="0.7" width="499.2" height="616"/>
+	</defs>
+	<clipPath id="XMLID_80_">
+		<use xlink:href="#XMLID_7_"  style="overflow:visible;"/>
+	</clipPath>
+	<path id="XMLID_41_" class="st1" d="M1,280.9v219.8V527c39,3,77,1,115-9c9-2,17,0,26-1c27.9-5,52.8-11,79.7-16.9
+		c-31.6,1.8-64.1-4-95.7,3.9c2,4,6,8,6,13c-1,0-1-1-2-1c1,0,1,1,2,1c0-5-4-9-6-13c31.6-7.9,64.1-2.2,95.7-3.9c0.1,0,0.2,0,0.3-0.1
+		c-0.1,0-0.2,0-0.3,0.1c0.4,0,0.9,0,1.3-0.1c-0.4,0-0.9,0-1.3,0.1c-26.9,6-51.8,11.9-79.7,16.9c-9,1-17-1-26,1c-38,10-76,12-115,9
+		v89.7h499.3V280.9H1z"/>
+	<g style="clip-path:url(#XMLID_80_);">
+		
+			<image style="overflow:visible;" width="876" height="518" id="XMLID_40_" xlink:href="../../../Downloads/priscilla-du-preez-rf5U-IXqxzg-unsplash/priscilla-du-preez-rf5U-IXqxzg-unsplash@2x.png"  transform="matrix(1.4832 0 0 1.4832 -389.3136 -85.6827)">
+		</image>
+	</g>
+	<rect id="XMLID_39_" x="1" y="-1.4" class="st2" width="500" height="500"/>
+	<path id="XMLID_37_" class="st2" d="M144.9,500.7h73.7c1-0.2,2-0.5,3-0.7C196.4,501.5,170.5,498.1,144.9,500.7z"/>
+	<path id="XMLID_36_" class="st2" d="M1,1.5v499.3h143.9c25.5-2.7,51.4,0.7,76.8-0.7c0.1,0,0.2,0,0.3-0.1c-0.1,0-0.2,0-0.3,0.1
+		c0.4,0,0.9,0,1.3-0.1c-0.4,0-0.9,0-1.3,0.1c-1,0.2-2,0.5-3,0.7H501V1.5H1z"/>
+	<path id="XMLID_35_" class="st3" d="M1,165.7c0,0,56.6-49.2,121.9-48.4c0,0,33.7,3.6,44,4.7c0,0,65.8,21.4,125.9,1
+		c0,0,24.6-8,44.1-20.7c0,0,5.9-2.5,22.6-12.2c5.8-3.3,12.5-4.9,19.3-4.3c8.6,0.7,21.5,0.1,32.2-7.3c22-15.4,39.8-36.7,39.8-36.7
+		S481.5,2.1,517.6-3c60-8.4,86.4-18.7,86.4-18.7v-74.9H1.1L1,165.7z"/>
+	<rect id="XMLID_34_" x="1" y="0.7" class="st2" width="500" height="500"/>
+	<path id="XMLID_24_" class="st4" d="M401.3,486.9c0,0-28.6-3.9-37.4-5.3c0,0-72.5-17.5-123.6,5.3c0,0-12.7,11-20.7,16.7
+		c0,0-13.6,8.4-21.1,8.8c0,0-27.3-3.5-44.9,15.4s-34.8,40.9-34.8,40.9s-16.3,27.7-67.3,36.1c-51,8.4-61.4,15.8-61.4,15.8V772h510.6
+		l1.1-326.5C502,445.5,456.6,487.7,401.3,486.9z"/>
+	<polyline id="XMLID_23_" class="st2" points="1,498.6 1,0.7 500.3,0.7 500.3,616.7 1,616.7 1,498.6 	"/>
+</g>
+</svg>

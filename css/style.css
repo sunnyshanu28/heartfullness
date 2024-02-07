@@ -392,10 +392,10 @@ a:focus {
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		transition: all 0.5s;
 	}
 	.somu img:hover{
 		transform: rotate(-15deg);
-		transition: 0.5s;
 	}
 	@media(max-width: 991px) and (min-width: 768px) {
 		.somu img{
